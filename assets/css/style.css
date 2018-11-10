@@ -1,0 +1,40 @@
+#title {
+    position: absolute;
+    padding: 0px 0px 0px 470px;
+}
+
+#new-game-button {
+    position: absolute; 
+    margin: 550px 0px 0px 700px; 
+    font: white;
+    float: left;
+}
+
+#word-box {
+    position: absolute; 
+    background-color: white;
+    margin: 200px 0px 0px 540px;
+    width: 400px;
+    height: 100px;
+    text-align: center; 
+}
+
+#guesses {
+    position: absolute;
+    background-color: white;
+    margin: 330px 0px 0px 750px;
+    width: 190px;
+    height: 200px;
+    text-align: center;
+    line-height: 60px;
+}
+
+#infobox {
+    position: absolute;
+    background-color: white;
+    margin: 330px 0px 1000px 540px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 60px;
+}
